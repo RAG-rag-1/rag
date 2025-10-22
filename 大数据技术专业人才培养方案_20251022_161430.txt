@@ -1,0 +1,1777 @@
+﻿标题: 数据科学与工程学院 - 昆明城市学院（云南师范大学商学院）
+来源: https://www.kmcc.edu.cn/index.php/Home/Sjkxygcxy/content/id/40645.html
+提取时间: 2025-10-22 16:14:27
+
+=== 正文内容 ===
+
+国标代码：13330云南省代码：5339
+
+全景VR校园
+
+国标代码：13330云南省代码：5339
+
+### 大数据技术专业人才培养方案（专科）
+
+发布日期：2024-05-22 点击量：2034
+
+专业名称：大数据技术
+
+专业代码：510205
+
+专业大类：电子信息类
+
+一、培养目标
+
+本专业培养德智体美劳全面发展，掌握扎实的科学文化基础及数据库基本原理、程序设计、操作系统原理、计算机网络及相关法律法规等知识，具备大数据项目方案设计及实施等能力，具有工匠精神和信息素养，能够从事大数据实施与运维、数据采集与处理、大数据分析与可视化、大数据平台管理、大数据技术服务与产品运营等工作的高素质技能人才。
+
+二、培养规格
+
+具有正确的世界观、人生观、价值观。坚决拥护领导，树立共同理想，践行核心价值观，具有深厚的爱国情感、国家认同感、中华民族自豪感；崇尚宪法、遵守法律、遵规守纪；具有社会责任感和参与意识。
+
+具有良好的职业道德和职业素养。崇德向善、诚实守信、爱岗敬业，具有精益求精的工匠精神；尊重劳动、热爱劳动，具有较强的实践能力；具有质量意识、绿色环保意识、安全意识、信息素养、创新精神；具有较强的集体意识和团队合作精神，能够进行的人际沟通和协作，与社会、自然和谐共处；具有职业生涯规划意识。
+
+具有良好的身心素质和人文素养。具有健康的体魄和心理、健全的人格，能够掌握基本运动知识和1～2 项运动技能；具有感受美、表现美、鉴赏美、创造美的能力，具有一定的审美和人文素养，能够形成1～2项艺术特长或爱好；掌握一定的学习方法，具有良好的生活习惯、行为习惯和自我管理能力。
+
+具备扎实的计算机编程能力和良好的编程习惯，熟悉Linux 环境下编程；熟悉 Linux和 Windows 系统及常见服务的配置及使用管理，能进行系统及服务问题分析和故障定位工作；掌握Java/Python 等至少其中一门程序开发语言；掌握主流大数据分析工具的基本功能；熟悉大数据平台，了解常见大数据处理工具的基本应用和部署运维；
+
+具备从事大数据相关工作岗位的专业基础技能和扩展学习能力；具备大数据开发环境以及各个组件的安装搭建、环境部署能力；具备数据库安装、配置、设计、管理和维护能力；具备使用主流大数据处理工具完成数据采集、存储、分析的能力；具备网络大数据爬取能力；具备使用主流框架进行数据分析与可视化的处理能力；具备操作系统配置与项目部署能力；具备分布式编程开发能力；具备创新能力；具备从事相关岗位的通用能力，口语和书面表达能力，解决实际问题的能力，终身学习能力，信息技术应用能力，思考、逻辑推理、信息加工能力等。
+
+三、主干学科与核心课程
+
+（一）主干学科
+
+计算机科学与技术、数学、统计学
+
+（二）核心课程
+
+Linux操作系统、数据结构与算法、Python编程、数据库原理及应用、大数据开发技术（Hadoop）、数据仓库（Hive）、数据挖掘、Spark原理及应用、数据采集与预处理
+
+（三）课程设置与教学计划
+
+详见附表1-4
+
+#### 四、专业特色
+
+（一）人才培养从大数据平台（负责采集和存储）、大数据计算分析、大数据可视化专业方向进行知识能力的培养，使学生熟悉数据采集、数据存储、数据分析、数据可视化等技术，具备大数据应用系统设计、实现及维护的能力，并能发现、分析和解决实际工程技术问题。同时具备良好的工程项目协调、沟通、组织能力。
+
+（二）采用产学结合的育人模式，系统学习并掌握计算机、数据科学与大数据技术等学科的基础知识与基本能力，以四年实践训练不断线的方法贯穿各个知识模块，不断提升学生的实践应用能力，有效支撑社会对大数据应用型人才的需要。
+
+五、学时学分设置
+
+六、毕业及学位授予条件
+
+#### （一）学制要求
+
+基本学制3年（学生可在规定修业年限内完成学业）。
+
+（二）学分要求
+
+学生需修满本专业规定总学分：156学分。
+
+（三）专业技能达标
+
+毕业前取得至少一个与专业相关的职业资格证或职业技能合格证、专业技能、水平合格证。如：软考初级及以上资格证书，全国计算机等级一级及以上证书、华为HCIA及以上证书等行业专业认证证书。
+
+（四）大学生体质健康测试
+
+（五）普通话证书
+
+二级乙等以上。
+
+七、专业大赛
+
+八、奖励学分
+
+（一）通过计算机技术与软件专业技术初级资格的考试，获得资格证，奖励对应资格相关专业选修课学分4分（如软件类、网络类、媒体类课程）。
+
+（二）通过本方案所列专业大赛（包括按学校规定确定的大赛）获得国家级一等奖、二等奖、三等奖；省级一等奖、二等奖、三等奖，奖励对应比赛相关课程专业选修课学分，奖励学分分别为6、5、4、4、3、2分。
+
+（三）以第一作者在省级以上刊物发表论文奖励学分2分，以第一作者发表软件著作奖励学分4学分。
+
+（四）以上奖励学分不超过6学分，用于冲抵专业选修课学分。
+
+九、修订人员
+
+王蕊、吴阳清、张洋、李亚东、李晗
+
+表1：公共必修课教学计划
+
+课程名称（中文）
+
+思想道德修养与法治
+
+Ideological and Moral Cultivation and Rule of Law
+
+2TA1A2211
+
+思想道德与法治（实践课）
+
+Ideological Morality and Rule of Law (Practice Lesson)
+
+2TA1A2212
+
+毛泽东思想和中国特色社会主义理论体系概论
+
+An Introduction to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics
+
+2TS1A2221
+
+习近平新时代中国特色社会主义思想概论
+
+Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
+2TS1A2211
+
+形势与政策（1-6）
+
+Situation and Policy (1-6)
+
+四史《新中国史》《改革开放史》《中国共产党简史》《社会主义发展简史》四门课程中任选一门课程
+
+2TS1A2200
+
+思政课模块小计
+
+大学英语（1）
+
+College English (1)
+
+2TS1A2201
+
+大学英语（2）
+
+College English (2)
+
+2TS1A2202
+
+语言课模块小计
+
+Military Theory
+
+2JX1A2230
+
+军事技能训练
+
+Military Skill Training
+
+2JX1A2240
+
+Labour Education
+
+2TS1A2230
+
+大学生心理健康
+
+Mental Health of College Students
+
+2TS1A2220
+
+大学体育（1）
+
+College Physical Education (1)
+
+2TS1T0081
+
+大学体育（2）
+
+College Physical Education (2)
+
+2TS1T0082
+
+身心健康模块小计
+
+148+2周
+
+大学生职业生涯规划
+
+College Students' Career Planning
+
+2JX5A0020
+
+大学生就业指导
+
+Employment Guidance for College Students
+
+2JX5A0030
+
+创新创业模块小计
+
+468+2周
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表2：公共选修课教学计划
+
+课程名称（中文）
+
+中华优秀传统文化
+
+Fine Traditional Chinese Culture
+
+2TS1A2201
+
+该模块至少修读2学分，32学时
+
+Social Etiquette
+
+2TS1A2202
+
+文化艺术欣赏
+
+Cultural and Artistic Appreciation
+
+2TS1A2203
+
+云南地方文化
+
+Yunnan Local Culture
+
+2TS1A2204
+
+人文素养课模块小计
+
+信息与职业素养
+
+Information Technology
+
+2TS1A2205
+
+该模块至少修读2学分，32学时
+
+微视频制作与传播
+
+Micro Video Production and Dissemination
+
+2TS1A2206
+
+创新创业教育
+
+Innovation and Entrepreneurship Education
+
+2TS1A2207
+
+管理沟通与写作
+
+Management Communication and Writing
+
+2TS1A2208
+
+信息与职业素养课模块小计
+
+体育健康素养
+
+大学生健康教育
+
+Health Education for College Students
+
+2TS1A2209
+
+该模块至少修读2学分，32学时
+
+大学生安全教育
+
+Safety Education for College Students
+
+2TS1A2210
+
+Sports Club
+
+2TS1A2211
+
+体育健康素养模块小计
+
+共计选修10学分，160学时（各模块至少修读2学分，32学时；其余4学分，64学时可任意修读）
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表3：专业教育平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+程序设计基础
+
+Basic of  Program Design
+
+2EE3A0010
+
+计算机网络技术
+
+Computer Networks and Communications
+
+2EE3A0020
+
+Web技术应用
+
+Web Technology and Applications
+
+2EE3A0030
+
+数理统计与概率论
+
+Probability Theory & Mathematical Statistics
+
+2EE3A0040
+
+Object-Oriented Programming
+
+2EE3A0050
+
+Python 编程
+
+Python Programming
+
+2EE3A0060
+
+专业基础课模块小计
+
+Linux基础
+
+LinuxOperating System
+
+2EE3A0011
+
+Principle & Application of Database
+
+2EE3A0012
+
+Data Structure
+
+2EE3A0013
+
+Java项目开发
+
+JavaProjectDevelopment
+
+2EE3A0014
+
+数据采集与预处理
+
+DataAcquisition andPrepossessing
+
+2EE3A0015
+
+大数据开发技术（Hadoop）
+
+BigDataDevelopmentTechnology（Hadoop）
+
+2EE3A0016
+
+NoSQL数据库技术及应用
+
+Technology and Application of NoSQL Database
+
+2EE3A0017
+
+（Hive）
+
+DataWarehouse
+
+2EE3A0018
+
+Spark原理与应用
+
+Principle and Application of Spark
+
+2EE3A0019
+
+数据可视化分析
+
+Visualization Analy of Data
+
+2EE3A0020
+
+Data Mining
+
+2EE3A0021
+
+专业核心课模块小计
+
+数据科学与大数据技术导论
+
+Introduction to Data Science and Dig Data Technology
+
+2EE4A0001
+
+OfficeAutomation
+
+2EE4A0002
+
+图形图像处理
+
+Graph and Image Processing
+
+2EE4A0003
+
+Git版本控制
+
+GitVersionControl
+
+2EE4A0004
+
+数据采集与网络爬虫
+
+DataAcquisition andWebCrawler
+
+2EE4A0005
+
+Java Web技术
+
+Java WebTechnology
+
+2EE4A0006
+
+Mathematical Modeling
+
+2EE4A0007
+
+PB级企业电商离线数仓项目实战
+
+Practice of PBLevelEnterpriseE-commerceOfflineDigitalWarehouseProject
+
+2EE4A0008
+
+微信小程序开发
+
+WeChatAppletDevelopment
+
+2EE4A0009
+
+大数据统计学理论应用
+
+Application of Statistical Theory for Big Data
+
+2EE4A0010
+
+计算机图形学
+
+Computer Graphics
+
+2EE4A0011
+
+专业（方向/任选）选修课模块小计
+
+需选修20学分，320学时进行修读
+
+90学分，1440学时
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）
+
+表4：专业实践平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+实践学时(实训)
+
+专业认知实习
+
+ProfessionalCognition
+
+2EE3A0410
+
+数据库设计实训
+
+Database Design Training
+
+2EE3A0420
+
+专业技能基础
+
+（大数据平台构建综合实践）
+
+ProfessionalSkillsBase
+
+2EE4A0430
+
+ComprehensiveTraining ofBigDataAnalysts
+
+2EE3A0440
+
+Spark 高效数据分析与应用开发集中实训
+
+Spark Centralized Training on Efficient Data Analysis and Application Development
+
+2EE3A0450
+
+ProfessionalPractice
+
+2EE3A0460
+
+GraduationFieldWork
+
+2EE3A0470
+
+毕业论文（设计）
+
+Thesis(Design)
+
+2EE3A0480
+
+128学时+19周
+
+128学时+19周
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）表1：公共必修课教学计划
+
+课程名称（中文）
+
+思想道德修养与法治
+
+Ideological and Moral Cultivation and Rule of Law
+
+2TA1A2211
+
+思想道德与法治（实践课）
+
+Ideological Morality and Rule of Law (Practice Lesson)
+
+2TA1A2212
+
+毛泽东思想和中国特色社会主义理论体系概论
+
+An Introduction to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics
+
+2TS1A2221
+
+习近平新时代中国特色社会主义思想概论
+
+Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
+2TS1A2211
+
+形势与政策（1-6）
+
+Situation and Policy (1-6)
+
+四史《新中国史》《改革开放史》《中国共产党简史》《社会主义发展简史》四门课程中任选一门课程
+
+2TS1A2200
+
+思政课模块小计
+
+大学英语（1）
+
+College English (1)
+
+2TS1A2201
+
+大学英语（2）
+
+College English (2)
+
+2TS1A2202
+
+语言课模块小计
+
+Military Theory
+
+2JX1A2230
+
+军事技能训练
+
+Military Skill Training
+
+2JX1A2240
+
+Labour Education
+
+2TS1A2230
+
+大学生心理健康
+
+Mental Health of College Students
+
+2TS1A2220
+
+大学体育（1）
+
+College Physical Education (1)
+
+2TS1T0081
+
+大学体育（2）
+
+College Physical Education (2)
+
+2TS1T0082
+
+身心健康模块小计
+
+148+2周
+
+大学生职业生涯规划
+
+College Students' Career Planning
+
+2JX5A0020
+
+大学生就业指导
+
+Employment Guidance for College Students
+
+2JX5A0030
+
+创新创业模块小计
+
+468+2周
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表2：公共选修课教学计划
+
+课程名称（中文）
+
+中华优秀传统文化
+
+Fine Traditional Chinese Culture
+
+2TS1A2201
+
+该模块至少修读2学分，32学时
+
+Social Etiquette
+
+2TS1A2202
+
+文化艺术欣赏
+
+Cultural and Artistic Appreciation
+
+2TS1A2203
+
+云南地方文化
+
+Yunnan Local Culture
+
+2TS1A2204
+
+人文素养课模块小计
+
+信息与职业素养
+
+Information Technology
+
+2TS1A2205
+
+该模块至少修读2学分，32学时
+
+微视频制作与传播
+
+Micro Video Production and Dissemination
+
+2TS1A2206
+
+创新创业教育
+
+Innovation and Entrepreneurship Education
+
+2TS1A2207
+
+管理沟通与写作
+
+Management Communication and Writing
+
+2TS1A2208
+
+信息与职业素养课模块小计
+
+体育健康素养
+
+大学生健康教育
+
+Health Education for College Students
+
+2TS1A2209
+
+该模块至少修读2学分，32学时
+
+大学生安全教育
+
+Safety Education for College Students
+
+2TS1A2210
+
+Sports Club
+
+2TS1A2211
+
+体育健康素养模块小计
+
+共计选修10学分，160学时（各模块至少修读2学分，32学时；其余4学分，64学时可任意修读）
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表3：专业教育平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+程序设计基础
+
+Basic of  Program Design
+
+2EE3A0010
+
+计算机网络技术
+
+Computer Networks and Communications
+
+2EE3A0020
+
+Web技术应用
+
+Web Technology and Applications
+
+2EE3A0030
+
+数理统计与概率论
+
+Probability Theory & Mathematical Statistics
+
+2EE3A0040
+
+Object-Oriented Programming
+
+2EE3A0050
+
+Python 编程
+
+Python Programming
+
+2EE3A0060
+
+专业基础课模块小计
+
+Linux基础
+
+LinuxOperating System
+
+2EE3A0011
+
+Principle & Application of Database
+
+2EE3A0012
+
+Data Structure
+
+2EE3A0013
+
+Java项目开发
+
+JavaProjectDevelopment
+
+2EE3A0014
+
+数据采集与预处理
+
+DataAcquisition andPrepossessing
+
+2EE3A0015
+
+大数据开发技术（Hadoop）
+
+BigDataDevelopmentTechnology（Hadoop）
+
+2EE3A0016
+
+NoSQL数据库技术及应用
+
+Technology and Application of NoSQL Database
+
+2EE3A0017
+
+（Hive）
+
+DataWarehouse
+
+2EE3A0018
+
+Spark原理与应用
+
+Principle and Application of Spark
+
+2EE3A0019
+
+数据可视化分析
+
+Visualization Analy of Data
+
+2EE3A0020
+
+Data Mining
+
+2EE3A0021
+
+专业核心课模块小计
+
+数据科学与大数据技术导论
+
+Introduction to Data Science and Dig Data Technology
+
+2EE4A0001
+
+OfficeAutomation
+
+2EE4A0002
+
+图形图像处理
+
+Graph and Image Processing
+
+2EE4A0003
+
+Git版本控制
+
+GitVersionControl
+
+2EE4A0004
+
+数据采集与网络爬虫
+
+DataAcquisition andWebCrawler
+
+2EE4A0005
+
+Java Web技术
+
+Java WebTechnology
+
+2EE4A0006
+
+Mathematical Modeling
+
+2EE4A0007
+
+PB级企业电商离线数仓项目实战
+
+Practice of PBLevelEnterpriseE-commerceOfflineDigitalWarehouseProject
+
+2EE4A0008
+
+微信小程序开发
+
+WeChatAppletDevelopment
+
+2EE4A0009
+
+大数据统计学理论应用
+
+Application of Statistical Theory for Big Data
+
+2EE4A0010
+
+计算机图形学
+
+Computer Graphics
+
+2EE4A0011
+
+专业（方向/任选）选修课模块小计
+
+需选修20学分，320学时进行修读
+
+90学分，1440学时
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）
+
+表4：专业实践平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+实践学时(实训)
+
+专业认知实习
+
+ProfessionalCognition
+
+2EE3A0410
+
+数据库设计实训
+
+Database Design Training
+
+2EE3A0420
+
+专业技能基础
+
+（大数据平台构建综合实践）
+
+ProfessionalSkillsBase
+
+2EE4A0430
+
+ComprehensiveTraining ofBigDataAnalysts
+
+2EE3A0440
+
+Spark 高效数据分析与应用开发集中实训
+
+Spark Centralized Training on Efficient Data Analysis and Application Development
+
+2EE3A0450
+
+ProfessionalPractice
+
+2EE3A0460
+
+GraduationFieldWork
+
+2EE3A0470
+
+毕业论文（设计）
+
+Thesis(Design)
+
+2EE3A0480
+
+128学时+19周
+
+128学时+19周
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）表1：公共必修课教学计划
+
+课程名称（中文）
+
+思想道德修养与法治
+
+Ideological and Moral Cultivation and Rule of Law
+
+2TA1A2211
+
+思想道德与法治（实践课）
+
+Ideological Morality and Rule of Law (Practice Lesson)
+
+2TA1A2212
+
+毛泽东思想和中国特色社会主义理论体系概论
+
+An Introduction to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics
+
+2TS1A2221
+
+习近平新时代中国特色社会主义思想概论
+
+Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
+2TS1A2211
+
+形势与政策（1-6）
+
+Situation and Policy (1-6)
+
+四史《新中国史》《改革开放史》《中国共产党简史》《社会主义发展简史》四门课程中任选一门课程
+
+2TS1A2200
+
+思政课模块小计
+
+大学英语（1）
+
+College English (1)
+
+2TS1A2201
+
+大学英语（2）
+
+College English (2)
+
+2TS1A2202
+
+语言课模块小计
+
+Military Theory
+
+2JX1A2230
+
+军事技能训练
+
+Military Skill Training
+
+2JX1A2240
+
+Labour Education
+
+2TS1A2230
+
+大学生心理健康
+
+Mental Health of College Students
+
+2TS1A2220
+
+大学体育（1）
+
+College Physical Education (1)
+
+2TS1T0081
+
+大学体育（2）
+
+College Physical Education (2)
+
+2TS1T0082
+
+身心健康模块小计
+
+148+2周
+
+大学生职业生涯规划
+
+College Students' Career Planning
+
+2JX5A0020
+
+大学生就业指导
+
+Employment Guidance for College Students
+
+2JX5A0030
+
+创新创业模块小计
+
+468+2周
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表2：公共选修课教学计划
+
+课程名称（中文）
+
+中华优秀传统文化
+
+Fine Traditional Chinese Culture
+
+2TS1A2201
+
+该模块至少修读2学分，32学时
+
+Social Etiquette
+
+2TS1A2202
+
+文化艺术欣赏
+
+Cultural and Artistic Appreciation
+
+2TS1A2203
+
+云南地方文化
+
+Yunnan Local Culture
+
+2TS1A2204
+
+人文素养课模块小计
+
+信息与职业素养
+
+Information Technology
+
+2TS1A2205
+
+该模块至少修读2学分，32学时
+
+微视频制作与传播
+
+Micro Video Production and Dissemination
+
+2TS1A2206
+
+创新创业教育
+
+Innovation and Entrepreneurship Education
+
+2TS1A2207
+
+管理沟通与写作
+
+Management Communication and Writing
+
+2TS1A2208
+
+信息与职业素养课模块小计
+
+体育健康素养
+
+大学生健康教育
+
+Health Education for College Students
+
+2TS1A2209
+
+该模块至少修读2学分，32学时
+
+大学生安全教育
+
+Safety Education for College Students
+
+2TS1A2210
+
+Sports Club
+
+2TS1A2211
+
+体育健康素养模块小计
+
+共计选修10学分，160学时（各模块至少修读2学分，32学时；其余4学分，64学时可任意修读）
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表3：专业教育平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+程序设计基础
+
+Basic of  Program Design
+
+2EE3A0010
+
+计算机网络技术
+
+Computer Networks and Communications
+
+2EE3A0020
+
+Web技术应用
+
+Web Technology and Applications
+
+2EE3A0030
+
+数理统计与概率论
+
+Probability Theory & Mathematical Statistics
+
+2EE3A0040
+
+Object-Oriented Programming
+
+2EE3A0050
+
+Python 编程
+
+Python Programming
+
+2EE3A0060
+
+专业基础课模块小计
+
+Linux基础
+
+LinuxOperating System
+
+2EE3A0011
+
+Principle & Application of Database
+
+2EE3A0012
+
+Data Structure
+
+2EE3A0013
+
+Java项目开发
+
+JavaProjectDevelopment
+
+2EE3A0014
+
+数据采集与预处理
+
+DataAcquisition andPrepossessing
+
+2EE3A0015
+
+大数据开发技术（Hadoop）
+
+BigDataDevelopmentTechnology（Hadoop）
+
+2EE3A0016
+
+NoSQL数据库技术及应用
+
+Technology and Application of NoSQL Database
+
+2EE3A0017
+
+（Hive）
+
+DataWarehouse
+
+2EE3A0018
+
+Spark原理与应用
+
+Principle and Application of Spark
+
+2EE3A0019
+
+数据可视化分析
+
+Visualization Analy of Data
+
+2EE3A0020
+
+Data Mining
+
+2EE3A0021
+
+专业核心课模块小计
+
+数据科学与大数据技术导论
+
+Introduction to Data Science and Dig Data Technology
+
+2EE4A0001
+
+OfficeAutomation
+
+2EE4A0002
+
+图形图像处理
+
+Graph and Image Processing
+
+2EE4A0003
+
+Git版本控制
+
+GitVersionControl
+
+2EE4A0004
+
+数据采集与网络爬虫
+
+DataAcquisition andWebCrawler
+
+2EE4A0005
+
+Java Web技术
+
+Java WebTechnology
+
+2EE4A0006
+
+Mathematical Modeling
+
+2EE4A0007
+
+PB级企业电商离线数仓项目实战
+
+Practice of PBLevelEnterpriseE-commerceOfflineDigitalWarehouseProject
+
+2EE4A0008
+
+微信小程序开发
+
+WeChatAppletDevelopment
+
+2EE4A0009
+
+大数据统计学理论应用
+
+Application of Statistical Theory for Big Data
+
+2EE4A0010
+
+计算机图形学
+
+Computer Graphics
+
+2EE4A0011
+
+专业（方向/任选）选修课模块小计
+
+需选修20学分，320学时进行修读
+
+90学分，1440学时
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）
+
+表4：专业实践平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+实践学时(实训)
+
+专业认知实习
+
+ProfessionalCognition
+
+2EE3A0410
+
+数据库设计实训
+
+Database Design Training
+
+2EE3A0420
+
+专业技能基础
+
+（大数据平台构建综合实践）
+
+ProfessionalSkillsBase
+
+2EE4A0430
+
+ComprehensiveTraining ofBigDataAnalysts
+
+2EE3A0440
+
+Spark 高效数据分析与应用开发集中实训
+
+Spark Centralized Training on Efficient Data Analysis and Application Development
+
+2EE3A0450
+
+ProfessionalPractice
+
+2EE3A0460
+
+GraduationFieldWork
+
+2EE3A0470
+
+毕业论文（设计）
+
+Thesis(Design)
+
+2EE3A0480
+
+128学时+19周
+
+128学时+19周
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）表1：公共必修课教学计划
+
+课程名称（中文）
+
+思想道德修养与法治
+
+Ideological and Moral Cultivation and Rule of Law
+
+2TA1A2211
+
+思想道德与法治（实践课）
+
+Ideological Morality and Rule of Law (Practice Lesson)
+
+2TA1A2212
+
+毛泽东思想和中国特色社会主义理论体系概论
+
+An Introduction to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics
+
+2TS1A2221
+
+习近平新时代中国特色社会主义思想概论
+
+Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+
+2TS1A2211
+
+形势与政策（1-6）
+
+Situation and Policy (1-6)
+
+四史《新中国史》《改革开放史》《中国共产党简史》《社会主义发展简史》四门课程中任选一门课程
+
+2TS1A2200
+
+思政课模块小计
+
+大学英语（1）
+
+College English (1)
+
+2TS1A2201
+
+大学英语（2）
+
+College English (2)
+
+2TS1A2202
+
+语言课模块小计
+
+Military Theory
+
+2JX1A2230
+
+军事技能训练
+
+Military Skill Training
+
+2JX1A2240
+
+Labour Education
+
+2TS1A2230
+
+大学生心理健康
+
+Mental Health of College Students
+
+2TS1A2220
+
+大学体育（1）
+
+College Physical Education (1)
+
+2TS1T0081
+
+大学体育（2）
+
+College Physical Education (2)
+
+2TS1T0082
+
+身心健康模块小计
+
+148+2周
+
+大学生职业生涯规划
+
+College Students' Career Planning
+
+2JX5A0020
+
+大学生就业指导
+
+Employment Guidance for College Students
+
+2JX5A0030
+
+创新创业模块小计
+
+468+2周
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表2：公共选修课教学计划
+
+课程名称（中文）
+
+中华优秀传统文化
+
+Fine Traditional Chinese Culture
+
+2TS1A2201
+
+该模块至少修读2学分，32学时
+
+Social Etiquette
+
+2TS1A2202
+
+文化艺术欣赏
+
+Cultural and Artistic Appreciation
+
+2TS1A2203
+
+云南地方文化
+
+Yunnan Local Culture
+
+2TS1A2204
+
+人文素养课模块小计
+
+信息与职业素养
+
+Information Technology
+
+2TS1A2205
+
+该模块至少修读2学分，32学时
+
+微视频制作与传播
+
+Micro Video Production and Dissemination
+
+2TS1A2206
+
+创新创业教育
+
+Innovation and Entrepreneurship Education
+
+2TS1A2207
+
+管理沟通与写作
+
+Management Communication and Writing
+
+2TS1A2208
+
+信息与职业素养课模块小计
+
+体育健康素养
+
+大学生健康教育
+
+Health Education for College Students
+
+2TS1A2209
+
+该模块至少修读2学分，32学时
+
+大学生安全教育
+
+Safety Education for College Students
+
+2TS1A2210
+
+Sports Club
+
+2TS1A2211
+
+体育健康素养模块小计
+
+共计选修10学分，160学时（各模块至少修读2学分，32学时；其余4学分，64学时可任意修读）
+
+说明：课程类型：A（理论课 ）；B（理论课+实践课）；C（实践课）
+
+表3：专业教育平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+程序设计基础
+
+Basic of  Program Design
+
+2EE3A0010
+
+计算机网络技术
+
+Computer Networks and Communications
+
+2EE3A0020
+
+Web技术应用
+
+Web Technology and Applications
+
+2EE3A0030
+
+数理统计与概率论
+
+Probability Theory & Mathematical Statistics
+
+2EE3A0040
+
+Object-Oriented Programming
+
+2EE3A0050
+
+Python 编程
+
+Python Programming
+
+2EE3A0060
+
+专业基础课模块小计
+
+Linux基础
+
+LinuxOperating System
+
+2EE3A0011
+
+Principle & Application of Database
+
+2EE3A0012
+
+Data Structure
+
+2EE3A0013
+
+Java项目开发
+
+JavaProjectDevelopment
+
+2EE3A0014
+
+数据采集与预处理
+
+DataAcquisition andPrepossessing
+
+2EE3A0015
+
+大数据开发技术（Hadoop）
+
+BigDataDevelopmentTechnology（Hadoop）
+
+2EE3A0016
+
+NoSQL数据库技术及应用
+
+Technology and Application of NoSQL Database
+
+2EE3A0017
+
+（Hive）
+
+DataWarehouse
+
+2EE3A0018
+
+Spark原理与应用
+
+Principle and Application of Spark
+
+2EE3A0019
+
+数据可视化分析
+
+Visualization Analy of Data
+
+2EE3A0020
+
+Data Mining
+
+2EE3A0021
+
+专业核心课模块小计
+
+数据科学与大数据技术导论
+
+Introduction to Data Science and Dig Data Technology
+
+2EE4A0001
+
+OfficeAutomation
+
+2EE4A0002
+
+图形图像处理
+
+Graph and Image Processing
+
+2EE4A0003
+
+Git版本控制
+
+GitVersionControl
+
+2EE4A0004
+
+数据采集与网络爬虫
+
+DataAcquisition andWebCrawler
+
+2EE4A0005
+
+Java Web技术
+
+Java WebTechnology
+
+2EE4A0006
+
+Mathematical Modeling
+
+2EE4A0007
+
+PB级企业电商离线数仓项目实战
+
+Practice of PBLevelEnterpriseE-commerceOfflineDigitalWarehouseProject
+
+2EE4A0008
+
+微信小程序开发
+
+WeChatAppletDevelopment
+
+2EE4A0009
+
+大数据统计学理论应用
+
+Application of Statistical Theory for Big Data
+
+2EE4A0010
+
+计算机图形学
+
+Computer Graphics
+
+2EE4A0011
+
+专业（方向/任选）选修课模块小计
+
+需选修20学分，320学时进行修读
+
+90学分，1440学时
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）
+
+表4：专业实践平台课程教学计划
+
+课程名称（中文）
+
+课程名称（英文）
+
+实践学时(实训)
+
+专业认知实习
+
+ProfessionalCognition
+
+2EE3A0410
+
+数据库设计实训
+
+Database Design Training
+
+2EE3A0420
+
+专业技能基础
+
+（大数据平台构建综合实践）
+
+ProfessionalSkillsBase
+
+2EE4A0430
+
+ComprehensiveTraining ofBigDataAnalysts
+
+2EE3A0440
+
+Spark 高效数据分析与应用开发集中实训
+
+Spark Centralized Training on Efficient Data Analysis and Application Development
+
+2EE3A0450
+
+ProfessionalPractice
+
+2EE3A0460
+
+GraduationFieldWork
+
+2EE3A0470
+
+毕业论文（设计）
+
+Thesis(Design)
+
+2EE3A0480
+
+128学时+19周
+
+128学时+19周
+
+说明：课程类型：A（理论课）；B（理论课+实践课）；C（实践课）
